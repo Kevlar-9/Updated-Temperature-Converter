@@ -1,1 +1,1 @@
-A template of a temperature converter
+A template of a temperature converter.
